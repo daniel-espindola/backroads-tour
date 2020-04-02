@@ -4,4 +4,4 @@ Site feito como projeto durante o curso [HTML & CSS Tutorial and Projects Course
 
 ## Disponível em
 
-[backroads-tour](https://competent-blackwell-655343.netlify.com/)
+[backroads-tour](https://eloquent-leavitt-db48e2.netlify.com/)
