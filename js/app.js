@@ -10,6 +10,7 @@ const navBtn = document.getElementById("nav-toggle");
 const links = document.getElementById("nav-links");
 // add event listener
 navBtn.addEventListener("click", () => {
+  debugger;
   links.classList.toggle("show-links");
 });
 
